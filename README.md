@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**sandeshjungrana1/sandeshjungrana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sandesh Rana**, a BCA student based in **Kathmandu, Nepal**.
 
-Here are some ideas to get you started:
+I enjoy learning programming and solving problems through code.
+Currently focused on improving my skills in **Python and web development** while building small projects to strengthen my fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a problem interests me, I like breaking it down, understanding it deeply, and finding the best way to solve it.
+
+> First, solve the problem. Then, write the code.
+
+### Current Focus
+
+* Learning **Python**
+* Exploring **backend development**
+* Building projects to improve problem-solving skills
+
+### Tech I'm Learning
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+### Fun Facts
+
+* I enjoy solving logical problems
+* I like learning new technologies
+* Hobbies: coding, tech, and self-improvement
+
+---
+
+Always learning, one step at a time.
