@@ -3,12 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sandeshjungrana1.sandeshjungrana1&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sandeshjungrana1.sandeshjungrana1&left_text=Profile%20Visitors"  />
 </div>
 
 ###
 
-<p align="left">I am a Full Stack Developer</p>
+<p align="left">Aspiring Full Stack Developer</p>
 
 ###
 
