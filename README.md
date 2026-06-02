@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I am currently working on Movie App<br>📚 I'm currently evolving my skills with new systems<br>💬 How to reach me: sandeshrana211@gmail.com</p>
+<p align="left">✨ I am currently working on Music Web App<br>📚 I'm currently evolving my skills with new systems<br>💬 How to reach me: sandeshrana211@gmail.com</p>
 
 ###
 
